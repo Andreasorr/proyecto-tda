@@ -123,3 +123,10 @@ p {
     margin-top: 16px;
     color: white;
 }
+.textarea {
+    background-color: lightblue;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    padding: 10px;
+}
+
